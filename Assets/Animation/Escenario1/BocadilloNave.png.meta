@@ -1,0 +1,1917 @@
+fileFormatVersion: 2
+guid: a91cbd5c33844fa45aea7457255727b8
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BocadilloNave_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2544
+        width: 354
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c9fca0b3852b543a492ba9982ead77
+      internalID: -137385308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloNave_1
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 2544
+        width: 354
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9915601339f3bd346bb2a101d0704c07
+      internalID: -95417531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloNave_2
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 2544
+        width: 354
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16da8b25a6353744b82ed97b1c229a9a
+      internalID: 459035345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloNave_3
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 2544
+        width: 354
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3938cbcbce6f0ed459d7dffbb4316131
+      internalID: 1275873673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloNave_4
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 2544
+        width: 354
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09165023926a0d24e9261630ff886401
+      internalID: 441665152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloNave_5
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 2544
+        width: 354
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac759c91b3f7444d89be9b63a77c7ff
+      internalID: -677007329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloNave_6
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 2544
+        width: 354
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4489e3bfcb26e2498af5f7e588fd87a
+      internalID: 420175294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloNave_7
+      rect:
+        serializedVersion: 2
+        x: 2478
+        y: 2544
+        width: 354
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 555691a1ab6cfb244ae0b431c302db03
+      internalID: 1147990387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloNave_8
+      rect:
+        serializedVersion: 2
+        x: 2832
+        y: 2544
+        width: 354
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94873a1ec396a8d49b455fd2fdfdb7a2
+      internalID: -1131412221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloNave_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2226
+        width: 354
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c4c2a20cb9a1f46a8c4309b857f503
+      internalID: 1868245345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloNave_10
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 2226
+        width: 354
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c488bca1ecfb4504c8024a4ad9171983
+      internalID: 446709427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloNave_11
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 2226
+        width: 354
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d9fbc0801f1df4092493e995179bb3
+      internalID: 1089209319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloNave_12
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 2226
+        width: 354
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d239952d38e2d0549a44925e44fd1fd0
+      internalID: -1583676757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloNave_13
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 2226
+        width: 354
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f16f540d3cf384586f7b046233f674
+      internalID: -1001649704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloNave_14
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 2226
+        width: 354
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d5eeb6b91a36943b48b2ff8e023004
+      internalID: -723852216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloNave_15
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 2226
+        width: 354
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b204e32eddad941a0ae0e75f2faa6c
+      internalID: 470543198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloNave_16
+      rect:
+        serializedVersion: 2
+        x: 2478
+        y: 2226
+        width: 354
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f852a9e7770afc458a7a0485c3be453
+      internalID: 24771238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloNave_17
+      rect:
+        serializedVersion: 2
+        x: 2832
+        y: 2226
+        width: 354
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e5f02872ffb304dbca05247b9266e2
+      internalID: 1644962661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloNave_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1908
+        width: 354
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e09c8334f366cfe4ca919d141243714e
+      internalID: -2092699228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloNave_19
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1908
+        width: 354
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795941f3375a1b4409f71342fe130b31
+      internalID: -982624985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloNave_20
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 1908
+        width: 354
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 572c18ad4113eb141bb26c7f4598f4d9
+      internalID: -388733820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloNave_21
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 1908
+        width: 354
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4112d00bfd5e2c548b3496f6dea11137
+      internalID: 608694678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloNave_22
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 1908
+        width: 354
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f720df9ce4cd2ee468eb5193e48e535b
+      internalID: 701098973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloNave_23
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 1908
+        width: 354
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3ce232d1b225e949876721b12319937
+      internalID: -1062214318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloNave_24
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 1908
+        width: 354
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e69049c93c37c842a4ae355a36c0372
+      internalID: 2111787049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloNave_25
+      rect:
+        serializedVersion: 2
+        x: 2478
+        y: 1908
+        width: 354
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c52788909d57ec459dededb993d83d7
+      internalID: -735498898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloNave_26
+      rect:
+        serializedVersion: 2
+        x: 2832
+        y: 1908
+        width: 354
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4baacf808b3c60c4b80354d634cbebad
+      internalID: -10900744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloNave_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1590
+        width: 354
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2dbade5a2782b841b708b8f776fd081
+      internalID: -724419769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloNave_28
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1590
+        width: 354
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46bd3af5740b7814a97e1761f4e7d136
+      internalID: -1188128634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloNave_29
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 1590
+        width: 354
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ada8a38053bb9e49aed979fb33782c5
+      internalID: 481064097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloNave_30
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 1590
+        width: 354
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f467d549176657742a0ddee77d4b9855
+      internalID: 1732871199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloNave_31
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 1590
+        width: 354
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e15f0dbee1a847048bb03fcba3e4ba4a
+      internalID: 2041595194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloNave_32
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 1590
+        width: 354
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f074756104f270646badde39b5b272c3
+      internalID: 57196038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloNave_33
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 1590
+        width: 354
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e76cfe0c7025ead48a26312b100f9205
+      internalID: -1885145984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloNave_34
+      rect:
+        serializedVersion: 2
+        x: 2478
+        y: 1590
+        width: 354
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc30ca525588c34590ec5227ff9bb3b
+      internalID: 1158060514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloNave_35
+      rect:
+        serializedVersion: 2
+        x: 2832
+        y: 1590
+        width: 354
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea19fc558c15c8743996f0b5017a2994
+      internalID: -325569663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloNave_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1272
+        width: 354
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc2e8e072eadd24c96af3a60967f5f6
+      internalID: 400414690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloNave_37
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 1272
+        width: 354
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac8ebd58b43b5ff40bf0d9c0160cd2c1
+      internalID: -1837604000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloNave_38
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 1272
+        width: 354
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0166e7eef2b40f24bb5ea75ca454c7a3
+      internalID: 710514274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloNave_39
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 1272
+        width: 354
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74047a65a029b5a4299176b4d23071a2
+      internalID: -1575946450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloNave_40
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 1272
+        width: 354
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67677ea38c384574cad324617d66333d
+      internalID: 809141309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloNave_41
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 1272
+        width: 354
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c8abf94eea4ba46a6a8298a445f96c
+      internalID: -1780904711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloNave_42
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 1272
+        width: 354
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2204f300eec10a24487c5315e219d123
+      internalID: -336935954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloNave_43
+      rect:
+        serializedVersion: 2
+        x: 2478
+        y: 1272
+        width: 354
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 789fa4ee86d6e9b4ab1b0a7143eedbc2
+      internalID: -355012227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloNave_44
+      rect:
+        serializedVersion: 2
+        x: 2832
+        y: 1272
+        width: 354
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feba3e3819d4ca946a07faca714c9cdd
+      internalID: -861311701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloNave_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 954
+        width: 354
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46cc4538a08f2cf4fb1330cf51b692dd
+      internalID: -1392184464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloNave_46
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 954
+        width: 354
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4947bd5404a448e41be0ad2edad47d7a
+      internalID: -725176660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloNave_47
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 954
+        width: 354
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db90ac098baf6ff498d60309adeca3f6
+      internalID: 1429280014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloNave_48
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 954
+        width: 354
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3187d8c8934e7543a9b75be849ef631
+      internalID: 363880841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloNave_49
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 954
+        width: 354
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 734381510f528a04aad44a60c862bca0
+      internalID: -1209948835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloNave_50
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 954
+        width: 354
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22ec79914dae95e478b9c8e0ca4d8bd4
+      internalID: -1332378639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloNave_51
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 954
+        width: 354
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e07036258c97643be9884ec3069741
+      internalID: 441712082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloNave_52
+      rect:
+        serializedVersion: 2
+        x: 2478
+        y: 954
+        width: 354
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c04a25efb40d0984bb68f663628eceda
+      internalID: 678265782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloNave_53
+      rect:
+        serializedVersion: 2
+        x: 2832
+        y: 954
+        width: 354
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a4d546b25bf704cbcaf43c2bf37a80
+      internalID: 1098097455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloNave_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 636
+        width: 354
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f2e7c2c5518d744dbfd3b002a8fe25b
+      internalID: -1836231096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloNave_55
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 636
+        width: 354
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d96214c539adc3949ac03a5bf2333edf
+      internalID: -1211521440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloNave_56
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 636
+        width: 354
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b165cc6f7adc5564ea493dfdbd0df46e
+      internalID: -1869401371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloNave_57
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 636
+        width: 354
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d1905177309c3429575bbdf54e76f5
+      internalID: -2107323439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloNave_58
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 636
+        width: 354
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f9599202062f984cb68792acb50b11e
+      internalID: 2039644088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloNave_59
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 636
+        width: 354
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b0cebc3c2456648842357add7658c4
+      internalID: -503583110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloNave_60
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 636
+        width: 354
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae5935fbcebd5d4cadd600878e5c689
+      internalID: 1674844445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloNave_61
+      rect:
+        serializedVersion: 2
+        x: 2478
+        y: 636
+        width: 354
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a8fcbc9e668d24a86cb8911fe77f53
+      internalID: 1185451306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloNave_62
+      rect:
+        serializedVersion: 2
+        x: 2832
+        y: 636
+        width: 354
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c83ee37b78abda40a40957c32d1bea2
+      internalID: 1849549221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloNave_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 318
+        width: 354
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbbf68bde0774454bb6933641c7ec264
+      internalID: -805082245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloNave_64
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 318
+        width: 354
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f976fc2e9e7e7149acfe29d33e2732a
+      internalID: -748164116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloNave_65
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 318
+        width: 354
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919aac3820fd7ef499e1ab51ba61b10b
+      internalID: -1390020687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloNave_66
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 318
+        width: 354
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db56e3d5b8b3c84f9e72cc022b0673a
+      internalID: 231621316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloNave_67
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 318
+        width: 354
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f9055e2d53d744e992b25546f85d1f
+      internalID: 521926990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloNave_68
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 318
+        width: 354
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 956cd8c8893cc97499209e8abcf260dd
+      internalID: -1500314453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloNave_69
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 318
+        width: 354
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd213b9a69cacef49ba846542d10cd86
+      internalID: 344306205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloNave_70
+      rect:
+        serializedVersion: 2
+        x: 2478
+        y: 318
+        width: 354
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b2bcb17ee5c20408eb91374080312f
+      internalID: -1446240627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloNave_71
+      rect:
+        serializedVersion: 2
+        x: 2832
+        y: 318
+        width: 354
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e2e29c65b41dd43982c3d729ffa3ce
+      internalID: -1681898670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloNave_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 354
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0170d1b15eaf446a5588ada22c5de4
+      internalID: 770699449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloNave_73
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 0
+        width: 354
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fab3d7989135f1e48ab13758c679b41c
+      internalID: -882876226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloNave_74
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 0
+        width: 354
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aadd659338623d4badef277b319427f
+      internalID: -1959692929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloNave_75
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 0
+        width: 354
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0852e70054af04c40b74ff353a332fb5
+      internalID: 390506334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloNave_76
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 0
+        width: 354
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b71ee5230501544a247d1287db30bd
+      internalID: 202633611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloNave_77
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 0
+        width: 354
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150d8def81f5fbf4ca34cb4e30c002b3
+      internalID: 1204183690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloNave_78
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 0
+        width: 354
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f3e296828f37141855b4a10b5776b5
+      internalID: -1561436106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloNave_79
+      rect:
+        serializedVersion: 2
+        x: 2478
+        y: 0
+        width: 354
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a02713619e23ad249b0393a00cdeb118
+      internalID: 2073998494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BocadilloNave_80
+      rect:
+        serializedVersion: 2
+        x: 2832
+        y: 0
+        width: 354
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15492791554223d4199bf09858e40eb0
+      internalID: -1425589664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BocadilloNave_7: 1147990387
+      BocadilloNave_24: 2111787049
+      BocadilloNave_52: 678265782
+      BocadilloNave_53: 1098097455
+      BocadilloNave_12: -1583676757
+      BocadilloNave_18: -2092699228
+      BocadilloNave_57: -2107323439
+      BocadilloNave_17: 1644962661
+      BocadilloNave_27: -724419769
+      BocadilloNave_31: 2041595194
+      BocadilloNave_26: -10900744
+      BocadilloNave_65: -1390020687
+      BocadilloNave_69: 344306205
+      BocadilloNave_36: 400414690
+      BocadilloNave_0: -137385308
+      BocadilloNave_56: -1869401371
+      BocadilloNave_72: 770699449
+      BocadilloNave_6: 420175294
+      BocadilloNave_70: -1446240627
+      BocadilloNave_19: -982624985
+      BocadilloNave_5: -677007329
+      BocadilloNave_32: 57196038
+      BocadilloNave_48: 363880841
+      BocadilloNave_73: -882876226
+      BocadilloNave_1: -95417531
+      BocadilloNave_20: -388733820
+      BocadilloNave_21: 608694678
+      BocadilloNave_8: -1131412221
+      BocadilloNave_28: -1188128634
+      BocadilloNave_49: -1209948835
+      BocadilloNave_75: 390506334
+      BocadilloNave_22: 701098973
+      BocadilloNave_71: -1681898670
+      BocadilloNave_64: -748164116
+      BocadilloNave_10: 446709427
+      BocadilloNave_35: -325569663
+      BocadilloNave_38: 710514274
+      BocadilloNave_59: -503583110
+      BocadilloNave_15: 470543198
+      BocadilloNave_37: -1837604000
+      BocadilloNave_13: -1001649704
+      BocadilloNave_39: -1575946450
+      BocadilloNave_50: -1332378639
+      BocadilloNave_30: 1732871199
+      BocadilloNave_9: 1868245345
+      BocadilloNave_14: -723852216
+      BocadilloNave_41: -1780904711
+      BocadilloNave_2: 459035345
+      BocadilloNave_51: 441712082
+      BocadilloNave_62: 1849549221
+      BocadilloNave_68: -1500314453
+      BocadilloNave_23: -1062214318
+      BocadilloNave_46: -725176660
+      BocadilloNave_25: -735498898
+      BocadilloNave_54: -1836231096
+      BocadilloNave_11: 1089209319
+      BocadilloNave_40: 809141309
+      BocadilloNave_29: 481064097
+      BocadilloNave_42: -336935954
+      BocadilloNave_4: 441665152
+      BocadilloNave_77: 1204183690
+      BocadilloNave_55: -1211521440
+      BocadilloNave_63: -805082245
+      BocadilloNave_61: 1185451306
+      BocadilloNave_16: 24771238
+      BocadilloNave_66: 231621316
+      BocadilloNave_74: -1959692929
+      BocadilloNave_34: 1158060514
+      BocadilloNave_58: 2039644088
+      BocadilloNave_78: -1561436106
+      BocadilloNave_43: -355012227
+      BocadilloNave_60: 1674844445
+      BocadilloNave_76: 202633611
+      BocadilloNave_79: 2073998494
+      BocadilloNave_33: -1885145984
+      BocadilloNave_47: 1429280014
+      BocadilloNave_67: 521926990
+      BocadilloNave_80: -1425589664
+      BocadilloNave_44: -861311701
+      BocadilloNave_3: 1275873673
+      BocadilloNave_45: -1392184464
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

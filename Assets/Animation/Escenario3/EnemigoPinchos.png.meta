@@ -1,0 +1,1103 @@
+fileFormatVersion: 2
+guid: 4979a25211aaed2489fb968f2263f035
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EnemigoPinchos_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4800
+        width: 948
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5afa6d0a2a5064b87a3b0cedd20a82
+      internalID: 348173869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigoPinchos_1
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 4800
+        width: 948
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c889a38c69ff7b048b611899147d65d3
+      internalID: -1424128717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigoPinchos_2
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 4800
+        width: 948
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c103efce797ae454d812f866674da5b8
+      internalID: -633614212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigoPinchos_3
+      rect:
+        serializedVersion: 2
+        x: 2844
+        y: 4800
+        width: 948
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a28db566b970b4486ddd77b5025c01
+      internalID: 657153686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigoPinchos_4
+      rect:
+        serializedVersion: 2
+        x: 3792
+        y: 4800
+        width: 948
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 394fdfac3937af14ea96ee933514bf4f
+      internalID: -717209823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigoPinchos_5
+      rect:
+        serializedVersion: 2
+        x: 4740
+        y: 4800
+        width: 948
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e2e3f798deba848ba36f9a97148f3d
+      internalID: -1514229999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigoPinchos_6
+      rect:
+        serializedVersion: 2
+        x: 5688
+        y: 4800
+        width: 948
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa9b87a82158414399d1e823638978b
+      internalID: -53715525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigoPinchos_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4000
+        width: 948
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d46e7f3a4e101941bb5d653df3f9c9c
+      internalID: 680286778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigoPinchos_8
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 4000
+        width: 948
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb3caa07f46acf418a3f304f938e781
+      internalID: 1209931729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigoPinchos_9
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 4000
+        width: 948
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69fa938d1bffd13469eb366fb0916e3e
+      internalID: 1941194362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigoPinchos_10
+      rect:
+        serializedVersion: 2
+        x: 2844
+        y: 4000
+        width: 948
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3da0b867bc0f3e43907409c83d75336
+      internalID: 1169990226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigoPinchos_11
+      rect:
+        serializedVersion: 2
+        x: 3792
+        y: 4000
+        width: 948
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de1088543a8e1a4990b2db548257dd8
+      internalID: 435589655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigoPinchos_12
+      rect:
+        serializedVersion: 2
+        x: 4740
+        y: 4000
+        width: 948
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab22f5759acd824e8fa28d74aff4393
+      internalID: 354279727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigoPinchos_13
+      rect:
+        serializedVersion: 2
+        x: 5688
+        y: 4000
+        width: 948
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e1c367ee17d154aa85a65e143663fc
+      internalID: -1021344889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigoPinchos_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3200
+        width: 948
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f54918a68c4f7c41a3f7c35db062bcc
+      internalID: -383259179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigoPinchos_15
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 3200
+        width: 948
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8deb95e82be32c344ac1e32cde00a525
+      internalID: 1947739843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigoPinchos_16
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 3200
+        width: 948
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08a9e18fd8bd2c441a357f00c947d479
+      internalID: -1899286924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigoPinchos_17
+      rect:
+        serializedVersion: 2
+        x: 2844
+        y: 3200
+        width: 948
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51bbd4290f6d76f4d8ee35d6fc76583b
+      internalID: 1111055279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigoPinchos_18
+      rect:
+        serializedVersion: 2
+        x: 3792
+        y: 3200
+        width: 948
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34977c2a0c8b6384a84c529c95fc0b19
+      internalID: 136054500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigoPinchos_19
+      rect:
+        serializedVersion: 2
+        x: 4740
+        y: 3200
+        width: 948
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8272c9dd16fc3fb4482e40db74c896ea
+      internalID: -621192230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigoPinchos_20
+      rect:
+        serializedVersion: 2
+        x: 5688
+        y: 3200
+        width: 948
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2f658a4dd85354b85b65d8f3053563
+      internalID: -141406145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigoPinchos_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2400
+        width: 948
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd6b2d522a025e44aa6d828f3380cb0b
+      internalID: -2093765096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigoPinchos_22
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 2400
+        width: 948
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45cbf1dc103d98b429bc4e2ad1d17adc
+      internalID: -1684038678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigoPinchos_23
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 2400
+        width: 948
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c071a49444f8d4b8ba2fcb80c854a0
+      internalID: 351473190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigoPinchos_24
+      rect:
+        serializedVersion: 2
+        x: 2844
+        y: 2400
+        width: 948
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 639b4b2858f94694481a8bc8483b0848
+      internalID: -535944261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigoPinchos_25
+      rect:
+        serializedVersion: 2
+        x: 3792
+        y: 2400
+        width: 948
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fadbd9d168532ef42a1d635e43f6add0
+      internalID: 469900051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigoPinchos_26
+      rect:
+        serializedVersion: 2
+        x: 4740
+        y: 2400
+        width: 948
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f79e6d5960a3144f8cfd47a4db2f043
+      internalID: 688567195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigoPinchos_27
+      rect:
+        serializedVersion: 2
+        x: 5688
+        y: 2400
+        width: 948
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d81a15c290f5cae4491ecec8e01540be
+      internalID: -70179542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigoPinchos_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1600
+        width: 948
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32904c6694301c84b96d3c44340ddfb5
+      internalID: 1553253514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigoPinchos_29
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 1600
+        width: 948
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ff9e3565fd3fd4b973921cbb6a27d0
+      internalID: -1041735715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigoPinchos_30
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 1600
+        width: 948
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e259db9ae70c9c498942dbe4b8589b2
+      internalID: -215815187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigoPinchos_31
+      rect:
+        serializedVersion: 2
+        x: 2844
+        y: 1600
+        width: 948
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdcdadf4ae7aafc45923b1cc121fb1c6
+      internalID: -1996692207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigoPinchos_32
+      rect:
+        serializedVersion: 2
+        x: 3792
+        y: 1600
+        width: 948
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78dc92efbbbdc4241b99fa5861ef6757
+      internalID: 1909006091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigoPinchos_33
+      rect:
+        serializedVersion: 2
+        x: 4740
+        y: 1600
+        width: 948
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0da2f6fae4eba0449fb7284b1c01bdc
+      internalID: -1738327860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigoPinchos_34
+      rect:
+        serializedVersion: 2
+        x: 5688
+        y: 1600
+        width: 948
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cf049db73ef1d64d882130c4795663d
+      internalID: 934147772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigoPinchos_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 948
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf35df2aff8ac774aa73a4e6ddd87318
+      internalID: -1507353148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigoPinchos_36
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 800
+        width: 948
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbada5668ecd10c4c9bfd6aea4ce9842
+      internalID: 1172835746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigoPinchos_37
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 800
+        width: 948
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526414f2fcb93354187d993bf4e130b9
+      internalID: 1318060708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigoPinchos_38
+      rect:
+        serializedVersion: 2
+        x: 2844
+        y: 800
+        width: 948
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 845135a43de6b144f91664fc082707f9
+      internalID: 333844512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigoPinchos_39
+      rect:
+        serializedVersion: 2
+        x: 3792
+        y: 800
+        width: 948
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd1c15cea727d2f4e8d71f7d4c7d639a
+      internalID: 484862119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigoPinchos_40
+      rect:
+        serializedVersion: 2
+        x: 4740
+        y: 800
+        width: 948
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f983f45c04bd147ad71ae814e94e78
+      internalID: 1372893620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigoPinchos_41
+      rect:
+        serializedVersion: 2
+        x: 5688
+        y: 800
+        width: 948
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe9c74328ca9de949aeba902da8613b8
+      internalID: -43973597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigoPinchos_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 948
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef858d844ea029e449717d3dd5747e27
+      internalID: -618538389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigoPinchos_43
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 0
+        width: 948
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 618a609e944af7c43adfb9712510bc1d
+      internalID: 1213513210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      EnemigoPinchos_32: 1909006091
+      EnemigoPinchos_2: -633614212
+      EnemigoPinchos_31: -1996692207
+      EnemigoPinchos_43: 1213513210
+      EnemigoPinchos_24: -535944261
+      EnemigoPinchos_4: -717209823
+      EnemigoPinchos_15: 1947739843
+      EnemigoPinchos_39: 484862119
+      EnemigoPinchos_11: 435589655
+      EnemigoPinchos_7: 680286778
+      EnemigoPinchos_16: -1899286924
+      EnemigoPinchos_18: 136054500
+      EnemigoPinchos_38: 333844512
+      EnemigoPinchos_20: -141406145
+      EnemigoPinchos_17: 1111055279
+      EnemigoPinchos_10: 1169990226
+      EnemigoPinchos_21: -2093765096
+      EnemigoPinchos_8: 1209931729
+      EnemigoPinchos_34: 934147772
+      EnemigoPinchos_29: -1041735715
+      EnemigoPinchos_36: 1172835746
+      EnemigoPinchos_37: 1318060708
+      EnemigoPinchos_27: -70179542
+      EnemigoPinchos_42: -618538389
+      EnemigoPinchos_40: 1372893620
+      EnemigoPinchos_13: -1021344889
+      EnemigoPinchos_5: -1514229999
+      EnemigoPinchos_1: -1424128717
+      EnemigoPinchos_30: -215815187
+      EnemigoPinchos_28: 1553253514
+      EnemigoPinchos_33: -1738327860
+      EnemigoPinchos_14: -383259179
+      EnemigoPinchos_3: 657153686
+      EnemigoPinchos_6: -53715525
+      EnemigoPinchos_35: -1507353148
+      EnemigoPinchos_19: -621192230
+      EnemigoPinchos_12: 354279727
+      EnemigoPinchos_25: 469900051
+      EnemigoPinchos_26: 688567195
+      EnemigoPinchos_22: -1684038678
+      EnemigoPinchos_41: -43973597
+      EnemigoPinchos_23: 351473190
+      EnemigoPinchos_9: 1941194362
+      EnemigoPinchos_0: 348173869
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
